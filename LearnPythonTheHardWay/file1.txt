@@ -1,0 +1,7 @@
+import sys
+print sys.argv
+and try executing
+
+python program.py
+python program.py a b c
+python program.py hello world
